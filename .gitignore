@@ -10,6 +10,9 @@
 *.userosscache
 *.sln.docstates
 
+#Não rastreavel senha TXT
+minhas_senhas_secretas.txt 
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
